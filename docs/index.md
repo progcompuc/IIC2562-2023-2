@@ -14,11 +14,13 @@ Sala Javier Pinto, DCC (4to piso Edificio San Agustín, el primero a mano derech
 
 ### Profesor
 
-{ Nombre del profesor } (<correo@uc.cl>)
+Martín Muñoz (<mmunos@uc.cl>)
+
+Javier Marinkovic (<jmarinkovic@dcc.uchile.cl>)
 
 ### Ayudante
 
-{ Nombre del ayudante } (<correo@uc.cl>)
+Vicente Opazo (<vicenteopazos@uc.cl>)
 
 ### Telegram del curso (medio oficial de comunicación)
 
@@ -26,4 +28,9 @@ Sala Javier Pinto, DCC (4to piso Edificio San Agustín, el primero a mano derech
 
 ### Spreadsheet de notas y asistencia
 
-[Ver spreadsheet :material-google-spreadsheet:](){ .md-button .md-button--primary }
+[Ver spreadsheet :material-google-spreadsheet:](https://docs.google.com/spreadsheets/d/1jgvQcdm6UTQewUHgki2JBO9soJAvQUwKdywejr_1R3Y/){ .md-button .md-button--primary }
+
+### Canal Programación Competitiva UC
+
+[@progcompcl :fontawesome-brands-instagram:](https://www.instagram.com/progcompuc/){ .md-button .md-button--primary }
+
