@@ -56,7 +56,7 @@ Septiembre 1, 15 días, [link a **contest**](https://vjudge.net/contest/578988)
 
 | Problema  | `A` | `B` | `C` | `D` | `E` | `F` | `G` | `H` | `I` | `J` |
 | --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| Puntaje   |  3  |  4  |  5  |  4  |  5  |  2  |  3  |  5  |  4  |  3  | 
+| Puntaje   |  3  |  4  |  5  |  4  |  5  |  2  |  3  |  8  |  4  |  3  | 
 
 **Puntaje Mínimo Esperado**: 5
 
