@@ -74,3 +74,33 @@ Septiembre 8, 15 días, [link a **contest**](https://vjudge.net/contest/580282)
 
 **Puntaje Mínimo Esperado**: 6
 
+## Contest 6
+
+Septiembre 15, 15 días, [link a **contest**](https://vjudge.net/contest/581581)
+
+**Tópicos**: SCC, Bridges & Art. Points
+
+**Puntos**:
+
+| Problema  | `A` | `B` | `C` | `D` | `E` | `F` | `G` | `H` | `I` | `J` |
+| --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| Puntaje   |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  2  |  2  | 
+
+**Puntaje Mínimo Esperado**: ?
+
+## Contest 7
+
+Septiembre 22, 15 días, [link a **contest**](https://vjudge.net/contest/583245)
+
+**Tópicos**: Max Flow, Min Cut, Matching Biparito
+
+**Puntos**:
+
+| Problema  | `A` | `B` | `C` | `D` | `E` | `F` | `G` | `H` | `I` | `J` |
+| --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| Puntaje   |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  2  |  2  | 
+
+**Puntaje Mínimo Esperado**: ?
+
+
+
