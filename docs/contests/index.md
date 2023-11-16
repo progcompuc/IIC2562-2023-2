@@ -84,9 +84,9 @@ Septiembre 15, 15 días, [link a **contest**](https://vjudge.net/contest/581581)
 
 | Problema  | `A` | `B` | `C` | `D` | `E` | `F` | `G` | `H` | `I` | `J` |
 | --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| Puntaje   |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  2  |  2  | 
+| Puntaje   |  2  |  3  |  3  |  3  |  4  |  5  |  7  |  5  |  2  |  2  | 
 
-**Puntaje Mínimo Esperado**: ?
+**Puntaje Mínimo Esperado**: 5
 
 ## Contest 7
 
@@ -98,9 +98,48 @@ Septiembre 22, 15 días, [link a **contest**](https://vjudge.net/contest/583245)
 
 | Problema  | `A` | `B` | `C` | `D` | `E` | `F` | `G` | `H` | `I` | `J` |
 | --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| Puntaje   |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  2  |  2  | 
+| Puntaje   |  2  |  3  |  2  |  3  |  4  |  4  |  4  |  5  |  4  |  5  | 
+``
+**Puntaje Mínimo Esperado**: 5
+
+## Contest 8
+
+Septiembre 29, caleta, [link a **contest**](https://vjudge.net/contest/584650)
+
+**Tópicos**: MST y LCA
+
+**Puntos**:
+
+| Problema  | `A` | `B` | `C` | `D` | `E` | `F` | `G` | `H` |
+| --------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Puntaje   |  3  |  2  |  6  |  4  |  5  |  4  |  4  |  4  |
 
 **Puntaje Mínimo Esperado**: ?
 
+## Contest 9
 
+Octubre 13, 29 días, [link a **contest**](https://vjudge.net/contest/587673)
 
+**Tópicos**: Strings Parte I (Trie + Hashing + KMP)
+
+**Puntos**:
+
+| Problema  | `A` | `B` | `C` | `D` | `E` | `F` | `G` | `H` |
+| --------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Puntaje   |  3  |  2  |  3  |  4  |  3  |  4  |  5  |  5  |
+
+**Puntaje Mínimo Esperado**: 5
+
+## Contest 10
+
+Noviembre 3, 22 días, [link a **contest**](https://vjudge.net/contest/592093)
+
+**Tópicos**: Strings Parte II ( ... + Aho-Corasick)
+
+**Puntos**:
+
+| Problema  | `A` | `B` | `C` | `D` | `E` | `F` | `G` | `H` | `I` | `J` |
+| --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| Puntaje   |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  | 
+
+**Puntaje Mínimo Esperado**: ?
