@@ -143,3 +143,17 @@ Noviembre 3, 22 días, [link a **contest**](https://vjudge.net/contest/592093)
 | Puntaje   |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  | 
 
 **Puntaje Mínimo Esperado**: ?
+
+## Contest 11
+
+Noviembre 17, 22 días, [link a **contest**](https://vjudge.net/contest/595071)
+
+**Tópicos**: Geometría parte I
+
+**Puntos**:
+
+| Problema  | `A` | `B` | `C` | `D` | `E` | `F` | `G` | `H` | `I` | `J` |
+| --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| Puntaje   |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  |  x  | 
+
+**Puntaje Mínimo Esperado**: ?
